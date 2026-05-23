@@ -1,0 +1,159 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+   
+}
+body{
+     background-color: rgb(103, 179, 241);
+}
+
+.bloco{
+    align-items: center;
+    margin-top: 375px;
+    margin-left: 730px;
+    padding-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 500px;
+    height: 400px;
+    padding-top: 20px;
+    
+    
+}
+.campo{
+    color: rgb(0, 0, 0);
+    
+    
+}
+
+.label1{
+font-size: 20px;
+padding-left: 60px;
+}
+
+.label2{
+    font-size: 20px;
+    padding-left: 60px;
+    margin-top: 30px;
+    display: block;
+}
+
+.t1{
+    font-size: 18px;
+    padding-right: 114px;
+    padding-bottom: 20px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.t2{
+    margin-left: 60px;
+    font-size: 18px;
+    padding-right: 114px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+.t3{
+    font-size: 18px;
+    padding-right: 114px;
+    padding-bottom: 20px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.t4{
+    margin-left: 60px;
+    font-size: 18px;
+    padding-right: 114px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+button{
+   background-color: rgb(120, 179, 33);
+   color: aliceblue;
+   font-size: 16px;
+   margin-top: 10px;
+   margin-left: 170px;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   padding-right: 40px;
+   padding-left: 40px;
+   border-radius: 20px;
+   
+   
+   
+}
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+   
+}
+body{
+     background-color: rgb(103, 179, 241);
+}
+
+.bloco{
+    align-items: center;
+    margin-top: 375px;
+    margin-left: 730px;
+    padding-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    padding-top: 20px;
+    
+    
+}
+.campo{
+    color: rgb(0, 0, 0);
+    
+    
+}
+
+.label1{
+font-size: 20px;
+padding-left: 60px;
+}
+
+
+
+.t1{
+    font-size: 18px;
+    padding-right: 114px;
+    padding-bottom: 20px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.t2{
+    margin-left: 60px;
+    font-size: 18px;
+    padding-right: 114px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+
+button{
+   background-color: rgb(120, 179, 33);
+   color: aliceblue;
+   font-size: 16px;
+   margin-top: 10px;
+   margin-left: 170px;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   padding-right: 40px;
+   padding-left: 40px;
+   border-radius: 20px;
+   
+   
+   
+}

@@ -1,0 +1,48 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+   
+}
+body{
+     background-color: rgb(103, 179, 241);
+}
+
+.bloco{
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 730px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 500px;
+    height: 250px;
+    padding-top: 20px;
+    
+    
+}
+
+
+button{
+    background-color: rgb(120, 179, 33);
+   font-size: 16px;
+   margin-top: 60px;
+   margin-left: 90px;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   padding-right: 40px;
+   padding-left: 40px;
+   border-radius: 20px;
+   text-decoration: none;
+   
+   
+}
+button, a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.lista{
+   margin-left: 40px;
+   font-size: 30px;
+}
